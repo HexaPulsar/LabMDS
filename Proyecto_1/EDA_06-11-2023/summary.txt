@@ -1,0 +1,100 @@
+
+------------------------------------------------------------
+Los tipos de las variables son: 
+ID: int64
+Name: object
+Sex: object
+Team: object
+NOC: object
+Games: object
+Year: int64
+Season: object
+City: object
+Sport: object
+Event: object
+Medal: object
+age-height-weight: object
+num_for_test: float64
+------------------------------------------------------------
+Cantidad de NaNs por variable: 
+ID: 0
+Name: 0
+Sex: 0
+Team: 0
+NOC: 0
+Games: 0
+Year: 0
+Season: 0
+City: 0
+Sport: 0
+Event: 0
+Medal: 8775
+age-height-weight: 0
+num_for_test: 0
+------------------------------------------------------------
+Cantidad de valores únicos por variable: 
+ID: 5463
+Name: 5446
+Sex: 2
+Team: 307
+NOC: 193
+Games: 51
+Year: 35
+Season: 2
+City: 42
+Sport: 57
+Event: 588
+Medal: 3
+age-height-weight: 6830
+num_for_test: 9768
+------------------------------------------------------------
+Cantidad de ceros en las variables numericas: 
+ID: 0
+Year: 0
+num_for_test: 0
+------------------------------------------------------------
+Promedios de las variables numericas: 
+ID: 2789.4804
+Year: 1980.4768
+num_for_test: 990.5719369999999
+------------------------------------------------------------
+Cantidad de negativos de las variables numericas: 
+ID: 0
+Year: 0
+num_for_test: 0
+------------------------------------------------------------
+Maximos de las variables numericas: 
+ID: 5463.0
+Year: 2016.0
+num_for_test: 2011.33
+------------------------------------------------------------
+Mínimos de las variables numericas: 
+ID: 1.0
+Year: 1896.0
+num_for_test: 0.04
+------------------------------------------------------------
+Outliers de las variables numericas: 
+ID: 0
+Year: 45
+num_for_test: 0
+------------------------------------------------------------
+Percentil 25.0 de las variables numericas: 
+ID: 1405.75
+Year: 1964.0
+num_for_test: 488.1225
+------------------------------------------------------------
+Percentil 50.0 de las variables numericas: 
+ID: 2851.0
+Year: 1988.0
+num_for_test: 986.8050000000001
+------------------------------------------------------------
+Percentil 75.0 de las variables numericas: 
+ID: 4190.25
+Year: 2004.0
+num_for_test: 1491.6675
+------------------------------------------------------------
+Percentil 100.0 de las variables numericas: 
+ID: 5463.0
+Year: 2016.0
+num_for_test: 2011.33
+------------------------------------------------------------
